@@ -667,7 +667,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-	background: #ebeeee;
+	background: #fff;
 	padding-top: 90px;
 	padding-bottom: 60px;
 	width:auto;
@@ -721,9 +721,10 @@ ul#nav li.current a {
 	transition: all 0.3s ease-in-out;
 }
 
-.portfolio-item .item-wrap a {
+.portfolio-item .item-wrap a img{
 	display: block;
 	cursor: pointer;
+	text-align: center;
 }
 
 /* overlay */
