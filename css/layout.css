@@ -426,6 +426,12 @@ ul#nav li.current a {
 	-webkit-animation: AWS 2s ease;
 }
 
+.GCP {
+	width: 95%;
+	-moz-animation: GCP 2s ease;
+	-webkit-animation: GCP 2s ease;
+}
+
 .Docker {
 	width: 70%;
 	-moz-animation: Docker 2s ease;
